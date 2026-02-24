@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "file:///home/project"
+    },
+    {
+      "path": ""
+    }
+  ],
+  "settings": {
+    "security.workspace.trust.enabled": true,
+    "security.workspace.trust.startupPrompt": "never"
+  }
+}
